@@ -1,0 +1,7 @@
+adjective1 = input("Enter an adjective: ")
+noun1 = input("Enter a noun: ")
+adjective2 = input("Enter an adjective: ")
+
+print(f"I was sleeping at the mall when i saw a {adjective1} car")
+print(f"Then I also started to see a wild {noun1}")
+print(f"It was so facinating I thought today was a {adjective2} day")
