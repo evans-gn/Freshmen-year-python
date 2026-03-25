@@ -7,4 +7,6 @@ Built by Evans | Freshman Year
 ## Projects
 - Python Calculator - A calculator that performs addition, 
 subtraction, multiplication and division
-- Weight Converter - A program that converts weight units
+- Weight Converter - A program that converts weight between 
+kilograms and pounds
+- Mad Libs - A fun fill in the blank story game using user input
