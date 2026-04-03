@@ -12,3 +12,5 @@ kilograms and pounds
 - Mad Libs - A fun fill in the blank story game using user input
 - Temperature Converter - A program that converts temperature 
 between Celsius and Fahrenheit
+- Compound Interest Calculator - A calculator that computes 
+compound interest with input validation
