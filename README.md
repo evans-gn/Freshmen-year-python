@@ -13,4 +13,6 @@ kilograms and pounds
 - Temperature Converter - A program that converts temperature 
 between Celsius and Fahrenheit
 - Compound Interest Calculator - A calculator that computes 
-compound interest with input validation
+compound interest using real banking formulas
+- Countdown Timer - A timer that counts down from a given 
+number of seconds and displays hours, minutes and seconds
