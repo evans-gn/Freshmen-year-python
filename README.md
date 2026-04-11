@@ -16,3 +16,5 @@ between Celsius and Fahrenheit
 compound interest using real banking formulas
 - Countdown Timer - A timer that counts down from a given 
 number of seconds and displays hours, minutes and seconds
+- Shopping Cart - A program that lets users add food items 
+and prices to a cart and calculates the total
